@@ -11,6 +11,7 @@ export async function MarketingHeader() {
   const links = [
     { href: "/#features", label: t("features") },
     { href: "/#how-it-works", label: t("howItWorks") },
+    { href: "/#for-coaches", label: t("forCoaches") },
     { href: "/#pricing", label: t("pricing") },
     { href: "/#faq", label: t("faq") },
   ];

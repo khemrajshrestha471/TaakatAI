@@ -20,8 +20,8 @@ pnpm dev                     # http://localhost:3000
 ```
 
 Only `NEXT_PUBLIC_APP_URL`, `ENCRYPTION_KEY`, `MONGODB_URI` and `AUTH_SECRET` are required.
-Every other integration is disabled gracefully until its keys are set. See `.env.example` for where
-to get each key.
+Every other integration is disabled gracefully until its keys are set. See
+[docs/ENVIRONMENT.md](docs/ENVIRONMENT.md) for where to get each key.
 
 ## Scripts
 
