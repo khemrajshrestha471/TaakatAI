@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "title": "Online coaching & physique tracking",
+    "description": "Personalized training, diet plans, form checks, weekly check-ins and AI-assisted feedback — all in one place."
+  },
+  "common": {
+    "tagline": "Your Goals. My Guidance. Real Results.",
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menu": "Menu",
+    "loading": "Loading…",
+    "retry": "Try again",
+    "backHome": "Back to home",
+    "comingSoonTitle": "{section}",
+    "comingSoonBody": "This section is being built and will be available in an upcoming release."
+  },
+  "theme": {
+    "toggle": "Change theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "ne": "नेपाली",
+    "short": "EN"
+  },
+  "marketing": {
+    "nav": {
+      "features": "Features",
+      "howItWorks": "How it works",
+      "pricing": "Pricing",
+      "faq": "FAQ",
+      "login": "Log in",
+      "getStarted": "Get started"
+    },
+    "hero": {
+      "eyebrow": "Online personal training",
+      "title": "Train smarter. Transform for real.",
+      "subtitle": "Personalized programs, diet plans, form checks and weekly check-ins with your coach — backed by AI-assisted feedback.",
+      "ctaPrimary": "Start your transformation",
+      "ctaSecondary": "I'm a coach"
+    },
+    "services": {
+      "title": "What you'll get",
+      "program": "Personalized training program",
+      "support": "Daily support & chat",
+      "formCheck": "Exercise form monitoring",
+      "checkIn": "Weekly physique & weight updates",
+      "videoCall": "Video calls when needed",
+      "diet": "Personalized diet plan",
+      "adjustments": "Regular plan adjustments",
+      "progress": "Complete progress monitoring"
+    },
+    "footer": {
+      "rights": "All rights reserved.",
+      "privacy": "Privacy",
+      "terms": "Terms"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Log in to continue your journey."
+    },
+    "register": {
+      "title": "Create your account",
+      "subtitle": "Start training with your coach today."
+    },
+    "phaseNotice": "Sign-in is coming soon.",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Log in",
+    "registerLink": "Sign up"
+  },
+  "portal": {
+    "collapseSidebar": "Collapse sidebar",
+    "expandSidebar": "Expand sidebar",
+    "mainNav": "Main navigation",
+    "client": {
+      "title": "My coaching",
+      "nav": {
+        "home": "Home",
+        "train": "Train",
+        "diet": "Diet",
+        "progress": "Progress",
+        "chat": "Chat"
+      }
+    },
+    "coach": {
+      "title": "Coach portal",
+      "nav": {
+        "dashboard": "Dashboard",
+        "clients": "Clients",
+        "programs": "Programs",
+        "diet": "Diet plans",
+        "checkIns": "Check-ins",
+        "formChecks": "Form checks",
+        "calendar": "Calendar",
+        "payments": "Payments",
+        "settings": "Settings"
+      }
+    },
+    "guardian": {
+      "title": "Guardian portal",
+      "nav": {
+        "overview": "Overview",
+        "plans": "Plans",
+        "progress": "Progress",
+        "chat": "Chat history",
+        "payments": "Payments"
+      }
+    },
+    "superAdmin": {
+      "title": "Super admin",
+      "nav": {
+        "overview": "Overview",
+        "workspaces": "Workspaces",
+        "plans": "SaaS plans",
+        "revenue": "Revenue",
+        "aiUsage": "AI usage",
+        "auditLogs": "Audit logs"
+      }
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't exist or has moved."
+  }
+}
